@@ -1,16 +1,21 @@
-## Hi there 👋
+![dev-utility-APIs](https://raw.githubusercontent.com/hhellll/dev-utility-APIs/main/assets/banner-dark.png)
 
-<!--
-**hhellll/hhellll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm hhelll
 
-Here are some ideas to get you started:
+Indie API builder. I build small, focused, self-hosted APIs — each one does one job well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Flagship project
+
+**[dev-utility-APIs](https://github.com/hhellll/dev-utility-APIs)** — 19 production APIs on RapidAPI (18 live), including:
+
+- **Website Security Scanner** — passive security audit with a 0–100 score, plus Nuclei-powered deep scans
+- **AI Email Writer** — write, reply, and subject lines in English & Indonesian
+- **Background Remover AI** — image backgrounds to transparent PNG
+- Validation, geocoding, OCR & PDF, speech-to-text, text-to-speech, translation, and more
+
+Every API has a free plan. Browse the full catalog and docs in the repo.
+
+## Links
+
+- Flagship repo: https://github.com/hhellll/dev-utility-APIs
+- Instagram: https://www.instagram.com/hhellll
