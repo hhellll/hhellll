@@ -19,3 +19,6 @@ Every API has a free plan. Browse the full catalog and docs in the repo.
 
 - Flagship repo: https://github.com/hhellll/dev-utility-APIs
 - Instagram: https://www.instagram.com/hhellll
+## Stats
+
+![hhelll's GitHub stats](https://github-readme-stats.vercel.app/api?username=hhellll&show_icons=true&title_color=0b2a4a&icon_color=2563eb&text_color=333333&bg_color=ffffff)
