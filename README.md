@@ -3,6 +3,7 @@
 # Hi, I'm hhelll
 
 Indie API builder. I build small, focused, self-hosted APIs — each one does one job well.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![RapidAPI](https://img.shields.io/badge/RapidAPI-0055ff) ![Self-hosted VPS](https://img.shields.io/badge/Self--hosted-VPS-0b2a4a)
 
 ## Flagship project
 
