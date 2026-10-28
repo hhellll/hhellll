@@ -1,4 +1,4 @@
-![dev-utility-APIs](https://raw.githubusercontent.com/hhellll/dev-utility-APIs/main/assets/banner-dark.png)
+![dev-utility-APIs](https://raw.githubusercontent.com/hhellll/dev-utility-APIs/main/assets/banner-dark-v2.png)
 
 # Hi, I'm hhelll
 
