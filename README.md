@@ -11,7 +11,7 @@ Indie API builder. I build small, focused, self-hosted APIs — each one does on
 
 - **Website Security Scanner** — passive security audit with a 0–100 score, plus Nuclei-powered deep scans
 - **AI Email Writer** — write, reply, and subject lines in English & Indonesian
-- **Background Remover AI** — image backgrounds to transparent PNG
+- **Web Reader API** — fetch any web page as clean text or markdown, ready for AI workflows
 - Validation, geocoding, OCR & PDF, speech-to-text, text-to-speech, translation, and more
 
 Every API has a free plan. Browse the full catalog and docs in the repo.
