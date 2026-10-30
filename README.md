@@ -5,7 +5,7 @@
 Indie API builder. I build small, focused, self-hosted APIs — each one does one job well.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![RapidAPI](https://img.shields.io/badge/RapidAPI-0055ff) ![Self-hosted VPS](https://img.shields.io/badge/Self--hosted-VPS-0b2a4a)
 
-## Flagship project
+## Main project
 
 **[dev-utility-APIs](https://github.com/hhellll/dev-utility-APIs)** — 20 production APIs on RapidAPI (19 live), including:
 
@@ -18,5 +18,5 @@ Every API has a free plan. Browse the full catalog and docs in the repo.
 
 ## Links
 
-- Flagship repo: https://github.com/hhellll/dev-utility-APIs
+- Repository: https://github.com/hhellll/dev-utility-APIs
 - Instagram: https://www.instagram.com/hhellll
