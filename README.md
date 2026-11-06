@@ -6,7 +6,7 @@ Indie API builder. I build small, focused, self-hosted APIs — each one does on
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![RapidAPI](https://img.shields.io/badge/RapidAPI-0055ff) ![Self-hosted](https://img.shields.io/badge/Self--hosted-VPS-lightgrey)
 
-## Flagship project
+## Main project
 
 **[Website Security Scanner API](https://github.com/hhellll/dev-utility-APIs)** — a passive website security audit with a 0–100 score and letter grade: HTTPS & TLS health, quality-scored security headers, cookie flags, exposed files, DNS & email security, Certificate Transparency subdomain surface, live CVE intelligence (EPSS scores + CISA KEV status), scan history with change diffs, and Nuclei-powered deep scans with monitoring.
 
