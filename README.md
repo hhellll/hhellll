@@ -15,6 +15,10 @@ Indie API builder
 
 I also maintain a family of smaller utility APIs on RapidAPI (email writing, web reading for AI agents, validation, geocoding, OCR & PDF, speech-to-text, text-to-speech, translation, and more) — each one does one job well, and each has a free plan.
 
+## Security research
+
+Reported a stored-DoS vulnerability (quadratic complexity in golang.org/x/net/html parsing), published as [GHSA-5q86-52c5-vgfc](https://github.com/go-vikunja/vikunja/security/advisories/GHSA-5q86-52c5-vgfc) (CVE-2026-78661) with Reporter credit.
+
 ## Links
 
 - Repository: https://github.com/hhellll/dev-utility-APIs
